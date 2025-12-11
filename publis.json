@@ -1,0 +1,86 @@
+[
+ {
+   "id": 1,
+   "img": "/elmeugosteunblog/assets/foto1.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 50
+ },
+ {
+   "id": 2,
+   "img": "/elmeugosteunblog/assets/foto2.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 21
+ },
+ {
+   "id": 3,
+   "img": "/elmeugosteunblog/assets/foto3.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 20
+ },
+ {
+   "id": 4,
+   "img": "/elmeugosteunblog/assets/foto4.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 78
+ },
+ {
+   "id": 5,
+   "img": "/elmeugosteunblog/assets/foto5.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 13
+ },
+ {
+   "id": 6,
+   "img": "/elmeugosteunblog/assets/foto6.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 28
+ },
+ {
+   "id": 7,
+   "img": "/elmeugosteunblog/assets/foto7.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 37
+ },
+ {
+   "id": 8,
+   "img": "/elmeugosteunblog/assets/foto8.jpg",
+   "texto": "Aquest és el text del post",
+   "data": "2025-01-15T10:30:00Z",
+   "like": 39
+ },
+  {
+    "id": 9,
+    "img": "/elmeugosteunblog/assets/foto9.jpg",
+    "texto": "Aquest és el text del post",
+    "data": "2025-01-15T10:30:00Z",
+    "like": 45
+  },
+  {
+    "id": 10,
+    "img": "/elmeugosteunblog/assets/foto10.jpg",
+    "texto": "Aquest és el text del post",
+    "data": "2025-01-15T10:30:00Z",
+    "like": 52
+  },
+  {
+    "id": 11,
+    "img": "/elmeugosteunblog/assets/foto11.jpg",
+    "texto": "Aquest és el text del post",
+    "data": "2025-01-15T10:30:00Z",
+    "like": 102
+  },
+  {
+    "id": 12,
+    "img": "/elmeugosteunblog/assets/foto12.jpg",
+    "texto": "Aquest és el text del post",
+    "data": "2025-01-15T10:30:00Z",
+    "like": 73
+  }
+]
